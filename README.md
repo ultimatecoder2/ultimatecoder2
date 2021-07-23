@@ -57,7 +57,7 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 
 <br/>
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia&langs_count=12&card_width=450)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia&langs_count=25&card_width=450)
 
 
 
