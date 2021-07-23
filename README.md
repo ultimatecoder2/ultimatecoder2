@@ -14,6 +14,7 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 - 🌱 I’m currently exploring Open source and polishing my coding skills
 - 👯 Open for collaboration on projects
 - 😄 Pronouns: he/him/his
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - ⚡ Fun fact: I love to travel🐱‍🏍
 <br />
 
