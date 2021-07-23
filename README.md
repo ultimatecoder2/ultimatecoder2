@@ -53,7 +53,7 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 
 
 ## 🏆 Github Status
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia" width="45%" align="right"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia&langs_count=8" width="45%" align="right"/>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ultimatecoder2&show_icons=true&hide_border=true&theme=dark" width="45%"/>
 
