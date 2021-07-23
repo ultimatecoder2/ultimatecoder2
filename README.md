@@ -48,14 +48,17 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 <p align="center">
   <a href="mailto:deepu.jindal2002@gmail.com"><img src="https://img.shields.io/badge/-deepu.jindal2002-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/deepanshujindal/"><img src="https://img.shields.io/badge/-Deepanshu%20Jindal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ultimatecoder2"><img src="https://img.shields.io/badge/-ultimatecoder2-D14836?style=flat&logo=GitHub&logoColor=blaack"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ultimatecoder2"><img src="https://img.shields.io/badge/-ultimatecoder2-D14836?style=flat&logo=GitHub&logoColor=black"/></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 
 ## 🏆 Github Status
+
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia&langs_count=8" width="45%" align="right"/>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=ultimatecoder2&show_icons=true&hide_border=true&theme=dark" width="45%"/>
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimatecoder2&count_private=true&show_icons=true&hide_border=true&theme=algolia)
+
 
 <br/>
 
