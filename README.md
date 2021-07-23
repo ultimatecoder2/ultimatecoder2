@@ -25,41 +25,44 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Express Js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![Express Js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 
 ## 🤝🏻 Connect with me
 <p align="center">
-  <a href="mailto:deepu.jindal2002@gmail.com" target="blank"><img src="https://img.shields.io/badge/-deepu.jindal2002-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/deepanshujindal/" target="blank"><img src="https://img.shields.io/badge/-Deepanshu%20Jindal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ultimatecoder2" target="blank"><img src="https://img.shields.io/badge/-ultimatecoder2-D14836?style=flat&logo=GitHub&logoColor=blaack"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:deepu.jindal2002@gmail.com"><img src="https://img.shields.io/badge/-deepu.jindal2002-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/deepanshujindal/"><img src="https://img.shields.io/badge/-Deepanshu%20Jindal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ultimatecoder2"><img src="https://img.shields.io/badge/-ultimatecoder2-D14836?style=flat&logo=GitHub&logoColor=blaack"/></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 
 ## 🏆 Github Status
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia" width="45%" align="right"/>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=ultimatecoder2&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=ultimatecoder2&show_icons=true&hide_border=true&theme=dark" width="45%"/>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ultimatecoder2&theme=dark" width="45%" >
+<br/>
+
 
 <br>
 
 <div align="center">
 
-
 ### Show some ❤️ by starring ⭐ some of the repositories!
+
+</div>
