@@ -47,7 +47,7 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 ## 🤝🏻 Connect with me
 <p align="center">
   <a href="mailto:deepu.jindal2002@gmail.com"><img src="https://img.shields.io/badge/-deepu.jindal2002-D14836?style=flat&logo=Gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/deepanshujindal/"><img src="https://img.shields.io/badge/-Deepanshu%20Jindal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/deepanshujindal/"><img src="https://img.shields.io/badge/-Deepanshu%20Jindal-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ultimatecoder2"><img src="https://img.shields.io/badge/-ultimatecoder2-D14836?style=flat&logo=GitHub&logoColor=black"/></a> &nbsp;&nbsp;&nbsp;
 </p>
 
