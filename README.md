@@ -14,7 +14,7 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 - 🌱 I’m currently exploring Open source and polishing my coding skills
 - 👯 Open for collaboration on projects
 - 😄 Pronouns: he/him/his
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 Ask Me About Anything: I will be happy to help.
 - ⚡ Fun fact: I love to travel🐱‍🏍
 <br />
 
@@ -53,8 +53,7 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 
 
 ## 🏆 Github Status
-![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimatecoder2&count_private=true&show_icons=true&hide_border=true&theme=algolia&card_width=450)
-
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultimatecoder2&count_private=true&show_icons=true&hide_border=true&theme=algolia&card_width=500)
 <br/>
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ultimatecoder2&layout=compact&langs_count=8&theme=algolia&langs_count=25&card_width=450)
