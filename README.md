@@ -11,7 +11,7 @@ I am a Computer Science Undergraduate student from Punjab Engineering College, C
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently exploring Open source and polishing my coding skills
+- 🌱 Learning new things
 - 👯 Open for collaboration on projects
 - 😄 Pronouns: he/him/his
 - 💬 Ask Me About Anything: I will be happy to help.
