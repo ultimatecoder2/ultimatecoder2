@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Hello fellow  &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;, I'm Deepanshu Jindal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello fellow  &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;, I'm Deepanshu Jindal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="35px"> ! </h1>
 
 <h3 align="center">Welcome to my space. I'm an Enthusiastic Software Developer from India ❤</h3>
   
